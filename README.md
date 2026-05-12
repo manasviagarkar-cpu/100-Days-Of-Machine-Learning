@@ -5,7 +5,7 @@ My journey through ML basics to advanced models.
 - **Concepts:** Variables, Input, F-strings, Arithmetic.
 - **Project:** Built a formatted pay slip generator.
 
-📅 Day 2: Boolean Logic & Decision Engines
+### Day 2: Boolean Logic & Decision Engines
 **Topic:** Data Types (Boolean, None) and Logical Operators.
 
 **Key Learnings:**
@@ -15,3 +15,19 @@ My journey through ML basics to advanced models.
 
 **Project: SafePass AI Loan Predictor**
 A mini-engine that evaluates loan applicants based on age, credit history, income, and special manager referrals. It demonstrates how AI systems make binary decisions based on multi-factor logic.
+
+
+###  Day 3: Loops & Collections
+**Topic:** Iteration with `for` and `while`, `range()`, and `break/continue`.
+
+**Key Learnings:**
+- Used `enumerate()` to track indices during loops.
+- Mastered the `for-else` block (executes only if `break` isn't hit).
+- Explored **List Comprehensions** for concise data processing.
+
+**Projects:** 
+1. Multiplication Table Generator.
+2. Extended FizzBuzz (with 'ML' flag for multiples of 7).
+3. List Comprehension refactor of the FizzBuzz logic.
+
+
