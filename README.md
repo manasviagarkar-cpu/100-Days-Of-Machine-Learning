@@ -31,3 +31,8 @@ A mini-engine that evaluates loan applicants based on age, credit history, incom
 3. List Comprehension refactor of the FizzBuzz logic.
 
 
+###  Day 4: Conditionals (Decision Making)
+- **Concepts:** `if`, `elif`, `else`, Ternary operators, and Logical Branching.
+- **Project:** **Health-Sync Step Analyzer** - Categorizes daily physical activity levels and awards badges using ternary logic.
+
+
