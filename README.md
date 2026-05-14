@@ -36,3 +36,9 @@ A mini-engine that evaluates loan applicants based on age, credit history, incom
 - **Project:** **Health-Sync Step Analyzer** - Categorizes daily physical activity levels and awards badges using ternary logic.
 
 
+###  Day 5: Functions & Modular Programming
+- **Concepts:** `def` keywords, parameters vs arguments, local/global scope, and the `math` and `json` modules.
+- **Project: Grade Analyzer** - A manual CSV parser that calculates class statistics without using external libraries like Pandas.
+
+
+
