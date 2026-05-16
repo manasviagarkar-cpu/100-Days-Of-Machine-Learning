@@ -38,7 +38,18 @@ A mini-engine that evaluates loan applicants based on age, credit history, incom
 
 ###  Day 5: Functions & Modular Programming
 - **Concepts:** `def` keywords, parameters vs arguments, local/global scope, and the `math` and `json` modules.
-- **Project: Grade Analyzer** - A manual CSV parser that calculates class statistics without using external libraries like Pandas.
+- **Project: Grade Analyzer** - A manual CSV parser that calculates class statistics without using external libraries like Pandas
+- 
 
+##  Day 6: Linear Algebra - Vector Operations
+**Topic:** Core math principles including Vector Space, Magnitudes, Dot/Cross Products, and Field Visualizations using NumPy and Matplotlib.
 
+### Key Learnings:
+- **Element-wise Operations:** Mastered array addition, subtraction, and scalar scaling matrices.
+- **Geometric Reductions:** Computed vector magnitudes ($L_2$ norm) using `np.linalg.norm()` and directions using angular trigonometry (`np.arctan2`).
+- **Data Similarity:** Explored the **Dot Product**, which forms the backbone of feature matching and structural network layers in ML models.
+- **Visual Mapping:** Formulated coordinate grids with `np.meshgrid()` and plotted force fields using `plt.quiver()`.
+
+###  Mini Project: Geometric Vector Space Simulation
+Implemented a program to compute geometric relationships between multi-dimensional arrays, alongside an interactive workspace rendering coordinate trajectories mapping individual input paths against their aggregate vector structures.
 
