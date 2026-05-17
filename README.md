@@ -54,8 +54,6 @@ A mini-engine that evaluates loan applicants based on age, credit history, incom
 Implemented a program to compute geometric relationships between multi-dimensional arrays, alongside an interactive workspace rendering coordinate trajectories mapping individual input paths against their aggregate vector structures.
 
 
-# 100 Days of Machine Learning 🤖
-
 ##  Day 7: Linear Algebra - Matrix Operations & Benchmarking
 **Topic:** 2D Grid Spaces, Shape Alignment Rules, Transposition, Matrix Multiplication ($O(n^3)$ Complexity), and Algorithmic Benchmarking.
 
