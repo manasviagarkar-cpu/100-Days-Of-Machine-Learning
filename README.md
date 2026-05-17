@@ -53,3 +53,16 @@ A mini-engine that evaluates loan applicants based on age, credit history, incom
 ###  Mini Project: Geometric Vector Space Simulation
 Implemented a program to compute geometric relationships between multi-dimensional arrays, alongside an interactive workspace rendering coordinate trajectories mapping individual input paths against their aggregate vector structures.
 
+
+# 100 Days of Machine Learning 🤖
+
+##  Day 7: Linear Algebra - Matrix Operations & Benchmarking
+**Topic:** 2D Grid Spaces, Shape Alignment Rules, Transposition, Matrix Multiplication ($O(n^3)$ Complexity), and Algorithmic Benchmarking.
+
+### Key Learnings:
+- **Matrix Dimension Tracking:** Enforced structural compatibility guidelines where inner dimensions must align (e.g., multiplying an $A \times B$ matrix by a $B \times C$ matrix results in an $A \times C$ output shape).
+- **Algorithmic Complexity:** Explored the performance degradation of explicit nested looping mechanics down a triple-tier hierarchy ($O(n^3)$ operations).
+- **The Power of Vectorization:** Witnessed how NumPy completely bypasses Python interpreter loops by pointing arrays directly toward underlying compiled C structures, running operations over 91x faster.
+
+###  Mini Project: Loop vs. NumPy Performance Profiler
+Developed a performance analytics benchmark that constructs a manual matrix multiplication engine from scratch utilizing raw nested loop indexing, profiles its execution speed against optimized NumPy matrix operations on a $100 \times 100$ dimensional grid, and visualizes the stark architectural speed differences via a Matplotlib bar chart.
