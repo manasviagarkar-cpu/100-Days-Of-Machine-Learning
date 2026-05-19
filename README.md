@@ -64,3 +64,17 @@ Implemented a program to compute geometric relationships between multi-dimension
 
 ###  Mini Project: Loop vs. NumPy Performance Profiler
 Developed a performance analytics benchmark that constructs a manual matrix multiplication engine from scratch utilizing raw nested loop indexing, profiles its execution speed against optimized NumPy matrix operations on a $100 \times 100$ dimensional grid, and visualizes the stark architectural speed differences via a Matplotlib bar chart.
+
+
+##  Day 8: Calculus - Derivatives & Gradient Descent
+**Topic:** Rates of Change, First-Order Derivatives, Slopes, and Step-Size Optimization via Gradient Descent.
+
+###  Key Learnings:
+- **The Power of Slopes:** Explored how the derivative $f'(x)$ functions as a compass, pointing in the direction of the steepest ascent. Moving *against* it allows an algorithm to locate local or global minimums.
+- **Learning Rate Dynamics:** Proved how the choice of learning rate ($\alpha$) heavily dictates convergence behavior:
+  - **Too Small ($\alpha = 0.01$):** Trapped in an inefficient, slow crawl toward the minimum.
+  - **Optimal ($\alpha = 0.1$ / $0.5$):** Smooth and rapid path optimization.
+- **Automated Minimization:** Iteratively tracked a parameter from $x = 10$ down to the analytical minimum at $x = -2.5$ for the quadratic function $f(x) = x^2 + 5x + 6$.
+
+###  Mini Project: Gradient Descent Learning Rate Profiler
+Coded an interactive mathematical simulation that implements a custom Gradient Descent function from scratch. The system updates parameter values iteratively based on the function's calculated derivative, tests multiple learning rates simultaneously, and plots their comparative pathways toward the true minimum using Matplotlib.
