@@ -1,4 +1,4 @@
-#100-Days-Of-Machine-Learning
+## 100-Days-Of-Machine-Learning
 My journey through ML basics to advanced models.
 
 ### Day 1: Python Basics & Salary Calculator
