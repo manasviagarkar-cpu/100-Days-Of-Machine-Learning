@@ -1,4 +1,4 @@
-# 100-Days-Of-Machine-Learning
+#100-Days-Of-Machine-Learning
 My journey through ML basics to advanced models.
 
 ### Day 1: Python Basics & Salary Calculator
@@ -77,4 +77,5 @@ Developed a performance analytics benchmark that constructs a manual matrix mult
 - **Automated Minimization:** Iteratively tracked a parameter from $x = 10$ down to the analytical minimum at $x = -2.5$ for the quadratic function $f(x) = x^2 + 5x + 6$.
 
 ###  Mini Project: Gradient Descent Learning Rate Profiler
+
 Coded an interactive mathematical simulation that implements a custom Gradient Descent function from scratch. The system updates parameter values iteratively based on the function's calculated derivative, tests multiple learning rates simultaneously, and plots their comparative pathways toward the true minimum using Matplotlib.
