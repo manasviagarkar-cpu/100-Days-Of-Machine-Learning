@@ -79,3 +79,18 @@ Developed a performance analytics benchmark that constructs a manual matrix mult
 ###  Mini Project: Gradient Descent Learning Rate Profiler
 
 Coded an interactive mathematical simulation that implements a custom Gradient Descent function from scratch. The system updates parameter values iteratively based on the function's calculated derivative, tests multiple learning rates simultaneously, and plots their comparative pathways toward the true minimum using Matplotlib.
+
+##  Day 9: Basic Statistics - Statistical Foundations & Verification
+**Topic:** Central Tendency (Mean, Median, Mode), Dispersion Metrics (Variance, Standard Deviation), and Mathematical Verification Foundations.
+
+###  Key Learnings:Central Tendency:**
+  - **Mean:** The arithmetic average, sensitive to extreme outliers.
+  - **Median:** The middle value of sorted data, acting as a robust structural middle point against outliers.
+  - **Mode:** The most frequent value(s) in a distribution, capable of handling multimodal datasets (as shown by your script identifying both `32` and `18`).
+- **Data Dispersion & Spread:**
+  - **Variance ($\sigma^2$):** Measures how far data points are spread out from the mean by averaging the squared differences.
+  - **Standard Deviation ($\sigma$):** The square root of variance, translating the spread metric back into the original units of your data for realistic mapping.
+- **Verification Testing:** Proved that scratch-built loop algorithms generate mathematically identical results to pre-compiled library architectures like `np.var()` and `np.std()`.
+
+###  Mini Project: Descriptive Statistics Verification Engine
+Built a dual-engine statistics profile analyzer from scratch. The program takes an arbitrary input list of numbers, processes all descriptive statistics metrics using pure Python algorithmic loops, validates the outputs step-by-step against vectorized NumPy equivalents, and outputs an aligned text-based verification matrix dashboard.
